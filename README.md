@@ -1,1 +1,1 @@
-# mwtgostringtools
+# mwt-go-strings
